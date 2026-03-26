@@ -1,0 +1,3 @@
+# Ignorar los archivos de registro (logs)
+logs/nginx/*.log
+logs/php/*.log
